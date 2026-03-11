@@ -1,6 +1,6 @@
 import java.util.Scanner;
 // github repository : 
-// 
+// https://github.com/xvasgit/PBO_105224038.git
 public class App {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
